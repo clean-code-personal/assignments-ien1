@@ -22,10 +22,6 @@ Consider:
 
 [C++](https://classroom.github.com/a/QfFY7_cO)
 
-[C#](https://classroom.github.com/a/YDI42tUP)
-
-[Java](https://classroom.github.com/a/3feDnPDT)
-
 [Python](https://classroom.github.com/a/xOdpSIqD)
 
 [JavaScript](https://classroom.github.com/a/SVOZw78i)
