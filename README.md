@@ -2,7 +2,16 @@
 
 These assignments intend to build habits for reliable, maintainable code.
 
+Flow:
+
+- Wed: Session - recap prev assignment + intro the next assignment
+- Thu + Fri: submitting, commit any number of times
+- Mon afternoon: Reviews (by Sudeep)
+- Tue: See reviews
+
 ## Try It
+
+[Fail on false positive](fail.md)
 
 [Modular well-named](small.md)
 
